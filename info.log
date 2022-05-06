@@ -1,0 +1,2 @@
+2022-05-02 18:50:14,121 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2022-05-02 18:50:14,155 - kedro.framework.session.session - WARNING - Unable to git describe /Users/fdr/git/kedro-airflow-iris

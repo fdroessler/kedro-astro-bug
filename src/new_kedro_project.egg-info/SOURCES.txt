@@ -1,0 +1,13 @@
+setup.py
+new_kedro_project/__init__.py
+new_kedro_project/__main__.py
+new_kedro_project/nodes.py
+new_kedro_project/pipeline.py
+new_kedro_project/pipeline_registry.py
+new_kedro_project/settings.py
+new_kedro_project.egg-info/PKG-INFO
+new_kedro_project.egg-info/SOURCES.txt
+new_kedro_project.egg-info/dependency_links.txt
+new_kedro_project.egg-info/entry_points.txt
+new_kedro_project.egg-info/requires.txt
+new_kedro_project.egg-info/top_level.txt
